@@ -17,7 +17,7 @@
             templateUrl: 'app/pages/routineMaintenance/routineMaintenance.html',
             controller: 'routineMaintenanceCtrl',
             sidebarMeta: {
-              icon: 'ion-android-home',
+              icon: 'ion-android-desktop',
               order: 0,
             },
           });
